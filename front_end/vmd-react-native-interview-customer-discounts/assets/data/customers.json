@@ -1,0 +1,6 @@
+[
+    { "customerId": 1, "name": "Alice", "yearlySpend": 10000 },
+    { "customerId": 2, "name": "Bob", "yearlySpend": 8000 },
+    { "customerId": 3, "name": "Charlie", "yearlySpend": 6000 }
+  ]
+  

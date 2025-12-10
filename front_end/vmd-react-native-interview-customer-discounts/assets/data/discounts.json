@@ -1,0 +1,9 @@
+[
+    { "discountId": 1, "value": 100 },
+    { "discountId": 2, "value": 200 },
+    { "discountId": 3, "value": 300 },
+    { "discountId": 4, "value": 400 },
+    { "discountId": 5, "value": 500 },
+    { "discountId": 6, "value": 600 }
+  ]
+  
